@@ -1,0 +1,22 @@
+[
+  {
+    "libraryIdentifier" : "b3bcbb30f8b84365767a3423dbdb4785",
+    "format" : "model",
+    "displayName" : "aviator.usdz"
+  },
+  {
+    "libraryIdentifier" : "a057c52386a3f109e7e522f9a2faf8da",
+    "format" : "model",
+    "displayName" : "black.usdz"
+  },
+  {
+    "libraryIdentifier" : "eed3fded9ff3549f606f83207e243f12",
+    "format" : "model",
+    "displayName" : "yellow.usdz"
+  },
+  {
+    "libraryIdentifier" : "7589095ec67603a275928340f7868bd5",
+    "format" : "model",
+    "displayName" : "beach.usdz"
+  }
+]
